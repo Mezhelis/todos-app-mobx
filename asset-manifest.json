@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todos-app-mobx/static/css/main.a617e044.chunk.css",
+    "main.js": "/todos-app-mobx/static/js/main.c5a9853b.chunk.js",
+    "main.js.map": "/todos-app-mobx/static/js/main.c5a9853b.chunk.js.map",
+    "runtime-main.js": "/todos-app-mobx/static/js/runtime-main.2e44d028.js",
+    "runtime-main.js.map": "/todos-app-mobx/static/js/runtime-main.2e44d028.js.map",
+    "static/js/2.cb086383.chunk.js": "/todos-app-mobx/static/js/2.cb086383.chunk.js",
+    "static/js/2.cb086383.chunk.js.map": "/todos-app-mobx/static/js/2.cb086383.chunk.js.map",
+    "static/js/3.d6a0f10e.chunk.js": "/todos-app-mobx/static/js/3.d6a0f10e.chunk.js",
+    "static/js/3.d6a0f10e.chunk.js.map": "/todos-app-mobx/static/js/3.d6a0f10e.chunk.js.map",
+    "index.html": "/todos-app-mobx/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/todos-app-mobx/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cb086383.chunk.js.LICENSE.txt": "/todos-app-mobx/static/js/2.cb086383.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e44d028.js",
+    "static/js/2.cb086383.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c5a9853b.chunk.js"
+  ]
+}
